@@ -1,0 +1,34 @@
+body {
+    background-color: black;
+    font: arial;
+    color: white;
+    align-content: center;
+    align-items: center;
+    align-self: center;
+    }
+
+h1{
+    color: grey;
+    font: verdana;
+    align-content: center;
+    align-items: center;
+    align-self: center;
+    }
+
+.maindiv{
+    margin: auto;
+    background-color: white;
+    color: black;
+    width: 550px;
+    padding: 20px;
+    border-radius: 25px;
+    align-content: center;
+    align-items: center;
+    align-self: center;
+    }
+
+p{
+    align-items: center;
+    align-self: center;
+    padding-left: 30px;
+}
